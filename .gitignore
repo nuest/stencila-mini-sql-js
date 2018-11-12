@@ -1,0 +1,5 @@
+
+\.local/**
+\.config/**
+\.npm/**
+node_modules/**
